@@ -1,10 +1,10 @@
 {
-  "name": "GURU-BOT",
+  "name": "〔 𝑌𝑂𝑁𝐴﹝❄️﹞𝐵𝑂𝑇 〕"  ، 
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/𝑦𝑜𝑛𝑎322/𝑦𝑜𝑛𝑎-𝑏𝑜𝑡",
   "logo": "https://i.imgur.com/gEj1qC6.jpeg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "GURU-bot-md", "GURU-bot"],
-  "buildpacks": [
+  "الكلمات الرئيسية" : [ "bot"    ،    "whatsapp"    ،    "whatsapp-bot"    ،    "rpg"    ،    "〔 𝑌𝑂𝑁𝐴﹝❄️﹞𝐵𝑂𝑇 〕"    ،    "〔𝑌𝑂𝑁𝐴 ﹝ ❄️ ﹞ 𝐵𝑂〕"  ، 
+  "حزم بناء" : [
     {
       "url": "heroku/nodejs"
     },
